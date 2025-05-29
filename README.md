@@ -37,7 +37,7 @@ You can click the Preview link to take a look at your changes.
       <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/nick1714">
-          <img align="center" src="https://github-readme-stats.vercel.app/api?username=nick1714&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=nick1714&count_private=true&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
         </a>
       </p>
     </td>
@@ -45,7 +45,7 @@ You can click the Preview link to take a look at your changes.
       <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
       <p align="center">
         <a href="https://github.com/nick1714">
-          <img align="center" src="https://streak-stats.demolab.com?user=nick1714&theme=nightowl" alt="Streak Stats" />
+          <img align="center" src="https://streak-stats.demolab.com?user=nick1714&theme=tokyonight" alt="Streak Stats" />
         </a>
       </p>
     </td>
@@ -55,7 +55,7 @@ You can click the Preview link to take a look at your changes.
       <h3 align="center"><strong>Most use language</strong></h3>
       <p align="center">
         <a href="https://github.com/nick1714">
-          <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick1714&show_icons=true&theme=nightowl"/>
+          <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick1714&show_icons=true&theme=tokyonight"/>
         </a>
       </p>
     </td>
@@ -63,7 +63,7 @@ You can click the Preview link to take a look at your changes.
       <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
       <p align="center">
         <a href="https://github.com/nick1714">
-          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=nick1714&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=nick1714&limit=3&theme=tokyonight&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
         </a>
       </p>
     </td>
