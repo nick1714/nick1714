@@ -20,3 +20,55 @@
 nick1714/nick1714 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<p align="center"><b>Visitor's Count</b></p>
+<p align="center" ><img src="https://komarev.com/ghpvc/?username=nick1714&color=green&style=flat" alt="visitor badge"/></p>
+
+## 📈 Stats
+<!---
+<p align="center">
+  <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick1714&show_icons=true&theme=tokyonight"/> <br> <br>
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nick1714&show_icons=true&theme=tokyonight" /> <br> <br>
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nick1714&theme=tokyonight" />
+</p>
+--->
+<table width="100%">
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Gɪᴛʜᴜʙ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/nick1714">
+          <img align="center" src="https://github-readme-stats.vercel.app/api?username=nick1714&count_private=true&show_icons=true&theme=nightowl" alt="GitHub Stats" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Sᴛʀᴇᴀᴋ Sᴛᴀᴛs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/nick1714">
+          <img align="center" src="https://streak-stats.demolab.com?user=nick1714&theme=nightowl" alt="Streak Stats" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center"><strong>Most use language</strong></h3>
+      <p align="center">
+        <a href="https://github.com/nick1714">
+          <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick1714&show_icons=true&theme=nightowl"/>
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center"><strong>Tᴏᴘ Cᴏɴᴛʀɪʙᴜᴛɪᴏɴs</strong></h3>
+      <p align="center">
+        <a href="https://github.com/nick1714">
+          <img align="center" src="https://github-contributor-stats.vercel.app/api?username=nick1714&limit=3&theme=nightowl&show_owner=true&combine_all_yearly_contributions=true" alt="Top Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+<br />
+
+<br>
