@@ -55,7 +55,7 @@ You can click the Preview link to take a look at your changes.
       <h3 align="center"><strong>Most use language</strong></h3>
       <p align="center">
         <a href="https://github.com/nick1714">
-          <img align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick1714&show_icons=true&theme=nightowl"/>
+          <img align="center" width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nick1714&show_icons=true&theme=nightowl"/>
         </a>
       </p>
     </td>
