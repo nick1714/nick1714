@@ -12,9 +12,11 @@
 
 
 - 👀 I’m interested in game, movie and code.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Informationg Technology at CTU Viet Nam
+- 💞️ I’m looking to collaborate on DevOps, UI/UX Design or Game Artist
+- 📫 How to reach me:
+    Email: nick170104@gmail.com
+    Facebook: https://www.facebook.com/nick1714
 
 <!---
 nick1714/nick1714 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
