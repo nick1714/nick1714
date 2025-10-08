@@ -4,7 +4,9 @@
   <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img>
   <img align="center" src="https://readme-typing-svg.herokuapp.com?font=Daughter&duration=4000&pause=1000&color=22EBF7&center=true&vCenter=true&width=435&lines=Its+Nick+and+welcome+to+my+profile;I'm+currently+a+student+at+CICT-CTU;More+about+me+%E2%86%93" alt="Typing SVG"/>
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="line">
+</p>
 ## ⚡🙋‍♂️ About Me (Installing...)
 
 
@@ -15,8 +17,8 @@
 - 🌱 I’m currently learning Informationg Technology at CTU Viet Nam
 - 💞️ I’m looking to collaborate on DevOps, UI/UX Design or Game Artist
 - 📫 How to reach me:
-    Email: nick170104@gmail.com
-    Facebook: https://www.facebook.com/nick1714
+    * **Email:** [nick170104@gmail.com](mailto:nick170104@gmail.com)
+    * **Facebook:** [Huynh Tan Dat](https://www.facebook.com/nick1714)
 
 <!---
 nick1714/nick1714 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
