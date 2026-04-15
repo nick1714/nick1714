@@ -63,7 +63,7 @@
   </tr>
 </table> -->
 
-<h2 align="center">📊 My GitHub Stats</h2>
+<!-- <h2 align="center">📊 My GitHub Stats</h2>
 <p align="center">
   <table align="center" width="90%">
     <tr>
@@ -80,7 +80,7 @@
       </td>
     </tr>
   </table>
-</p>
+</p> -->
 
 <h2 align="center">📌 Pinned Projects</h2>
 <p align="center">
