@@ -82,20 +82,20 @@
   </table>
 </p> -->
 
-<h2 align="center">📌 Pinned Projects</h2>
-<p align="center">
+<!-- <h2 align="center">📌 Pinned Projects</h2>
+<p align="center"> -->
   <!-- <em>My top projects, automatically fetched from my GitHub pins.</em><br><br> -->
-  <a href="https://github.com/nick1714/PDF-Translate">
+  <!-- <a href="https://github.com/nick1714/PDF-Translate">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nick1714&repo=PDF-Translate&theme=aura&hide_border=true" />
   </a>
   <a href="https://github.com/nick1714/Zinema">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nick1714&repo=Zinema&theme=aura&hide_border=true" />
   </a>
-</p>
+</p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" alt="line">
-</p>
+</p> -->
 
 
 <p align="center">
